@@ -99,7 +99,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="row">
 <div class="col-md-1"></div>
 <div class="col-md-10">
-<a href="mailto:chiraggoel.53784@gmail.com" style="color:#000000">saxenashubhankar51@gmail.com</a><br /><br />
+<a href="mailto:khyativardhans@gmail.com" style="color:#000000">khyativardhans@gmail.com</a><br /><br />
 </div><div class="col-md-1"></div></div>
 <p>Or you can directly submit your feedback by filling the enteries below:-</p>
 <form role="form"  method="post" action="feed.php?q=feedback.php">
@@ -164,12 +164,12 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
+		 <img src="image/aboutimg.jpeg" width=100 height=100 alt="kuldeep singh , khyati vardhan" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Shubhankar, Jasmine, Swapnil and Rahul</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9599412142</h4>
-		<h4 style="font-family:'typo' ">Jagan Institute Of Management Studies</h4></div></div>
+		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Kuldeep , khyati vardhans</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9548287302</h4>
+		<h4 style="font-family:'typo' ">G.L BAJAJ INSTITUTE OF TECHNOLOGY AND MANAGEMENT</h4></div></div>
 		</p>
       </div>
     

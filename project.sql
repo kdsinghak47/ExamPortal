@@ -95,7 +95,7 @@ CREATE TABLE `feedback` (
 --
 
 INSERT INTO `feedback` (`id`, `name`, `email`, `subject`, `feedback`, `date`, `time`) VALUES
-('6194882439041', 'shubhankar', 'saxenashubhankar51@gmail.com', 'C++', 'It was a great experience ', '2021-11-17', '05:42:12am');
+('6194882439041', 'kuldeep singh', 'kdsinghak47@gmail.com', 'C++', 'It was a great experience ', '2021-11-17', '05:42:12am');
 
 -- --------------------------------------------------------
 
@@ -301,8 +301,8 @@ CREATE TABLE `rank` (
 --
 
 INSERT INTO `rank` (`email`, `score`, `time`) VALUES
-('nik1@gmail.com', 1, '2015-06-23 16:11:50'),
-('saxenashubhankar51@gmail.com', 0, '2021-11-17 04:53:52');
+('kdsinghak47@gmail.com', 1, '2015-06-23 16:11:50'),
+('khyativardhans@gmail.com', 0, '2021-11-17 04:53:52');
 
 -- --------------------------------------------------------
 
@@ -324,16 +324,15 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`name`, `gender`, `college`, `email`, `mob`, `password`) VALUES
-('Avantika', 'F', 'KNIT sultanpur', 'avantika420@gmail.com', 7785068889, 'e10adc3949ba59abbe56e057f20f883e'),
-('Mark Zukarburg', 'M', 'Stanford', 'ceo@facebook.com', 987654321, 'e10adc3949ba59abbe56e057f20f883e'),
-('Komal', 'F', 'KNIT sultanpur', 'komalpd2011@gmail.com', 7785068889, 'e10adc3949ba59abbe56e057f20f883e'),
+('Avantika', 'F', 'GL Bajaj', 'avantika@gmail.com', 7785063454, 'e10adc3949ba59abbe56e057f20f883e'),
+('Mark Zukarburg', 'M', 'Stanford', 'ceo@facebook.com', 9876543736, 'e10adc3949ba59abbe56e057f20f883e'),
 ('Tom Cruze', 'M', 'Hollywood', 'mi5@hollywood.com', 7785068889, 'e10adc3949ba59abbe56e057f20f883e'),
-('Netcamp', 'M', 'KNIT sultanpur', 'netcamp@gmail.com', 987654321, 'e10adc3949ba59abbe56e057f20f883e'),
-('Nikunj', 'M', 'XYZ', 'nik1@gmail.com', 987, '202cb962ac59075b964b07152d234b70'),
-('Shubhankar', 'M', 'JIMS', 'saxenashubhankar51@gmail.com', 9599412142, '04d4e9857bfcd87612ce0dff475968d5'),
-('Sunny', 'M', 'KNIT sultanpur', 'sunnygkp10@gmail.com', 7785068889, 'e10adc3949ba59abbe56e057f20f883e'),
-('User', 'M', 'cimt', 'user@user.com', 11, 'e10adc3949ba59abbe56e057f20f883e'),
-('Vikash', 'M', 'KNIT sultanpur@gmail.com', 'vikash@gmail.com', 7785068889, 'e10adc3949ba59abbe56e057f20f883e');
+('Khyati Vardhan Sharma', 'M', 'GL Bajaj', 'khyativardhans@gmail.com', 7500858842, 'e10adc3949ba59abbe56e057f20f883e'),
+('Kuldeep', 'M', 'GL Bajaj', 'kuldeep@gmail.com', 98723695218, '202cb962ac59075b964b07152d234b70'),
+('Abhishek', 'M', 'GL Bajaj', 'abhishek@gmail.com', 9512142741, '04d4e9857bfcd87612ce0dff475968d5'),
+('Sunny', 'M', 'GL Bajaj', 'sunnygkp10@gmail.com', 7785068889, 'e10adc3949ba59abbe56e057f20f883e'),
+('User', 'M', 'GL Bajaj', 'user@user.com', 1163180532, 'e10adc3949ba59abbe56e057f20f883e'),
+('Vikash', 'M', 'GL Bajaj' ,'vikash@gmail.com',  7785068889, 'e10adc3949ba59abbe56e057f20f883e');
 
 --
 -- Indexes for dumped tables

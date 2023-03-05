@@ -143,7 +143,7 @@
         
         <div id="bodyContainer">
         
-            <textarea id="htmlPanel" class="panel"><p id="paragraph">Welcome to JIMS Rohini</p></textarea>
+            <textarea id="htmlPanel" class="panel"><p id="paragraph">Welcome to G.L BAJAJ</p></textarea>
             
             <textarea id="cssPanel" class="panel hidden">p { color: darkblue; }</textarea>
             

@@ -275,12 +275,12 @@ echo '</table></div></div>';}
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
+		 <img src="image/aboutimg.jpeg" width=100 height=100 alt="kuldeep singh , khyati vardhan" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Shubhankar, Jasmine, Swapnil and Rahul</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9599412142</h4>
-		<h4 style="font-family:'typo' ">Jagan Institute Of Management Studies</h4></div></div>
+		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Kuldeep , Khyati Vardhans</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9548287302</h4>
+		<h4 style="font-family:'typo' ">G.L BAJAJ INSTITUTE OF TECHNOLOGY AND MANAGEMENT</h4></div></div>
 		</p>
       </div>
     
